@@ -7,8 +7,7 @@ metadata:
 spec:
   type: GitHub
   pathname: https://github.com/redhat-gpte-devopsautomation/rhacm-labs.git
-  cambio: 1
-  cambio: 2
+
 ---
 apiVersion: app.k8s.io/v1beta1
 kind: Application
